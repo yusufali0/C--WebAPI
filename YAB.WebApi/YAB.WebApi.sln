@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YAB.WebApi", "YAB.WebApi\YAB.WebApi.csproj", "{54542E81-C6B7-484F-AE96-D68A466DAB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAB.ConsumeAPI", "YAB.ConsumeAPI\YAB.ConsumeAPI.csproj", "{F6907860-A608-4842-A51E-99A1379A5D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54542E81-C6B7-484F-AE96-D68A466DAB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54542E81-C6B7-484F-AE96-D68A466DAB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54542E81-C6B7-484F-AE96-D68A466DAB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54542E81-C6B7-484F-AE96-D68A466DAB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6907860-A608-4842-A51E-99A1379A5D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6907860-A608-4842-A51E-99A1379A5D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6907860-A608-4842-A51E-99A1379A5D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6907860-A608-4842-A51E-99A1379A5D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5FD8E9-AC0C-4DE7-8A4E-AF15ADFB9E1D}
+	EndGlobalSection
+EndGlobal
